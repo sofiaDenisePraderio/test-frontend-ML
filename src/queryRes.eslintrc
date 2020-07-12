@@ -1,0 +1,591 @@
+// GET https://api.mercadolibre.com/sites/MLA/search?q=iphone
+
+{
+    "site_id": "MLA",
+    "query": "iphone",
+    "paging": {
+        "total": 11207,
+        "offset": 0,
+        "limit": 50,
+        "primary_results": 1029
+    },
+    "results": [
+        {
+            "id": "MLA864535835",
+            "site_id": "MLA",
+            "title": "iPhone 11 64 Gb Negro 4 Gb Ram",
+            "seller": {
+                "id": 173208279,
+                "permalink": "http://perfil.mercadolibre.com.ar/ALEJ-66",
+                "power_seller_status": null,
+                "car_dealer": false,
+                "real_estate_agency": false,
+                "tags": []
+            },
+            "price": 145070,
+            "currency_id": "ARS",
+            "available_quantity": 1,
+            "sold_quantity": 0,
+            "buying_mode": "buy_it_now",
+            "listing_type_id": "gold_special",
+            "stop_time": "2040-06-20T04:00:00.000Z",
+            "condition": "new",
+            "permalink": "https://www.mercadolibre.com.ar/iphone-11-64-gb-negro-4-gb-ram/p/MLA15149561",
+            "thumbnail": "http://mla-s2-p.mlstatic.com/885508-MLA32445302787_102019-I.jpg",
+            "accepts_mercadopago": true,
+            "installments": {
+                "quantity": 12,
+                "amount": 18670.51,
+                "rate": 54.44,
+                "currency_id": "ARS"
+            },
+            "address": {
+                "state_id": "AR-C",
+                "state_name": "Capital Federal",
+                "city_id": "TUxBQlZJTDcwOTla",
+                "city_name": "Villa Urquiza"
+            },
+            "shipping": {
+                "free_shipping": true,
+                "mode": "me2",
+                "tags": ["self_service_in", "mandatory_free_shipping"],
+                "logistic_type": "drop_off",
+                "store_pick_up": false
+            },
+            "seller_address": {
+                "id": "",
+                "comment": "",
+                "address_line": "",
+                "zip_code": "",
+                "country": {
+                    "id": "AR",
+                    "name": "Argentina"
+                },
+                "state": {
+                    "id": "AR-C",
+                    "name": "Capital Federal"
+                },
+                "city": {
+                    "id": "TUxBQlZJTDcwOTla",
+                    "name": "Villa Urquiza"
+                },
+                "latitude": "",
+                "longitude": ""
+            },
+            "attributes": [
+                {
+                    "name": "Marca",
+                    "attribute_group_name": "Otros",
+                    "source": 1,
+                    "id": "BRAND",
+                    "value_id": "9344",
+                    "value_name": "Apple",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "id": "9344",
+                            "name": "Apple",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS"
+                },
+                {
+                    "value_name": "Apple GPU MP4",
+                    "values": [
+                        {
+                            "id": "7740544",
+                            "name": "Apple GPU MP4",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "source": 1,
+                    "id": "GPU_MODEL",
+                    "name": "Modelo de GPU",
+                    "value_id": "7740544",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS"
+                },
+                {
+                    "source": 3045741222775799,
+                    "id": "ITEM_CONDITION",
+                    "name": "Condición del ítem",
+                    "value_struct": null,
+                    "values": [
+                        {
+                            "struct": null,
+                            "source": 3045741222775799,
+                            "id": "2230284",
+                            "name": "Nuevo"
+                        }
+                    ],
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "value_id": "2230284",
+                    "value_name": "Nuevo"
+                },
+                {
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "source": 1,
+                    "id": "LINE",
+                    "value_id": "58993",
+                    "values": [
+                        {
+                            "id": "58993",
+                            "name": "iPhone",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "name": "Línea",
+                    "value_name": "iPhone"
+                },
+                {
+                    "value_name": "iPhone 11",
+                    "attribute_group_id": "OTHERS",
+                    "attribute_group_name": "Otros",
+                    "id": "MODEL",
+                    "value_id": "7739079",
+                    "values": [
+                        {
+                            "id": "7739079",
+                            "name": "iPhone 11",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "source": 1,
+                    "name": "Modelo",
+                    "value_struct": null
+                },
+                {
+                    "values": [
+                        {
+                            "id": "7740540",
+                            "name": "Apple A13 Bionic",
+                            "struct": null,
+                            "source": 1
+                        }
+                    ],
+                    "attribute_group_name": "Otros",
+                    "value_id": "7740540",
+                    "value_name": "Apple A13 Bionic",
+                    "value_struct": null,
+                    "attribute_group_id": "OTHERS",
+                    "source": 1,
+                    "id": "PROCESSOR_MODEL",
+                    "name": "Modelo del procesador"
+                }
+            ],
+            "original_price": 163000,
+            "category_id": "MLA1055",
+            "official_store_id": null,
+            "domain_id": "MLA-CELLPHONES",
+            "catalog_product_id": "MLA15149561",
+            "tags": [
+                "brand_verified",
+                "good_quality_picture",
+                "loyalty_discount_eligible",
+                "immediate_payment",
+                "cart_eligible",
+                "shipping_guaranteed"
+            ],
+            "catalog_listing": true
+        }
+    ],
+    "secondary_results": [],
+    "related_results": [],
+    "sort": {
+        "id": "relevance",
+        "name": "Más relevantes"
+    },
+    "available_sorts": [
+        {
+            "id": "price_asc",
+            "name": "Menor precio"
+        },
+        {
+            "id": "price_desc",
+            "name": "Mayor precio"
+        }
+    ],
+    "filters": [
+        {
+            "id": "category",
+            "name": "Categorías",
+            "type": "text",
+            "values": [
+                {
+                    "id": "MLA1055",
+                    "name": "Celulares y Smartphones",
+                    "path_from_root": [
+                        {
+                            "id": "MLA1051",
+                            "name": "Celulares y Teléfonos"
+                        },
+                        {
+                            "id": "MLA1055",
+                            "name": "Celulares y Smartphones"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "LINE",
+            "name": "Línea",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "58993",
+                    "name": "iPhone"
+                }
+            ]
+        },
+        {
+            "id": "BRAND",
+            "name": "Marca",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "9344",
+                    "name": "Apple"
+                }
+            ]
+        }
+    ],
+    "available_filters": [
+        {
+            "id": "official_store",
+            "name": "Tiendas oficiales",
+            "type": "text",
+            "values": [
+                {
+                    "id": "all",
+                    "name": "Todas las tiendas oficiales",
+                    "results": 3
+                }
+            ]
+        },
+        {
+            "id": "discount",
+            "name": "Descuentos",
+            "type": "range",
+            "values": [
+                {
+                    "id": "20-100",
+                    "name": "Desde 20% off",
+                    "results": 1
+                }
+            ]
+        },
+        {
+            "id": "state",
+            "name": "Ubicación",
+            "type": "text",
+            "values": [
+                {
+                    "id": "TUxBUENBUGw3M2E1",
+                    "name": "Capital Federal",
+                    "results": 4175
+                },
+                {
+                    "id": "TUxBUEdSQWU4ZDkz",
+                    "name": "Bs.As. G.B.A. Norte",
+                    "results": 1218
+                }
+            ]
+        },
+        {
+            "id": "price",
+            "name": "Precio",
+            "type": "range",
+            "values": [
+                {
+                    "id": "*-30000.0",
+                    "name": "Hasta $ 30.000",
+                    "results": 3562
+                },
+                {
+                    "id": "30000.0-70000.0",
+                    "name": "$30.000 a $70.000",
+                    "results": 3712
+                },
+                {
+                    "id": "70000.0-*",
+                    "name": "Más de $70.000",
+                    "results": 3902
+                }
+            ]
+        },
+        {
+            "id": "accepts_mercadopago",
+            "name": "Filtro por MercadoPago",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Con MercadoPago",
+                    "results": 11176
+                }
+            ]
+        },
+        {
+            "id": "installments",
+            "name": "Pago",
+            "type": "text",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "En cuotas",
+                    "results": 11047
+                },
+                {
+                    "id": "no_interest",
+                    "name": "Sin interés",
+                    "results": 1069
+                }
+            ]
+        },
+        {
+            "id": "shipping",
+            "name": "Tipo de entrega",
+            "type": "text",
+            "values": [
+                {
+                    "id": "mercadoenvios",
+                    "name": "Con envío",
+                    "results": 10960
+                },
+                {
+                    "id": "fulfillment",
+                    "name": "Full",
+                    "results": 2
+                }
+            ]
+        },
+        {
+            "id": "power_seller",
+            "name": "Filtro por calidad de vendedores",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Mejores vendedores",
+                    "results": 176
+                }
+            ]
+        },
+        {
+            "id": "since",
+            "name": "Filtro por fecha de comienzo",
+            "type": "text",
+            "values": [
+                {
+                    "id": "today",
+                    "name": "Publicados hoy",
+                    "results": 348
+                }
+            ]
+        },
+        {
+            "id": "until",
+            "name": "Filtro por fecha de finalización",
+            "type": "text",
+            "values": [
+                {
+                    "id": "today",
+                    "name": "Finalizan hoy",
+                    "results": 42
+                }
+            ]
+        },
+        {
+            "id": "has_video",
+            "name": "Filtro por publicaciones con video",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Publicaciones con video",
+                    "results": 208
+                }
+            ]
+        },
+        {
+            "id": "has_pictures",
+            "name": "Filtro por publicaciones con imágenes",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "yes",
+                    "name": "Con fotos",
+                    "results": 11164
+                }
+            ]
+        },
+        {
+            "id": "shipping_cost",
+            "name": "Costo de envío",
+            "type": "text",
+            "values": [
+                {
+                    "id": "free",
+                    "name": "Gratis",
+                    "results": 5447
+                }
+            ]
+        },
+        {
+            "id": "shipping_quarantine",
+            "name": "Tipo de entrega",
+            "type": "text",
+            "values": [
+                {
+                    "id": "guaranteed_delivery",
+                    "name": "Envío con normalidad",
+                    "results": 2077
+                }
+            ]
+        },
+        {
+            "id": "CARRIER",
+            "name": "Compañía telefónica",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "298335",
+                    "name": "Liberado",
+                    "results": 10701
+                },
+                {
+                    "id": "298333",
+                    "name": "Claro",
+                    "results": 153
+                },
+                {
+                    "id": "303170",
+                    "name": "Movistar",
+                    "results": 141
+                },
+                {
+                    "id": "303171",
+                    "name": "Personal",
+                    "results": 75
+                },
+                {
+                    "id": "303172",
+                    "name": "Nextel",
+                    "results": 9
+                }
+            ]
+        },
+        {
+            "id": "INTERNAL_MEMORY",
+            "name": "Memoria interna",
+            "type": "range",
+            "values": [
+                {
+                    "id": "(*-64GB)",
+                    "name": "Menos de 64 GB",
+                    "results": 4014
+                },
+                {
+                    "id": "[64GB-128GB)",
+                    "name": "64 a 127 GB",
+                    "results": 3993
+                },
+                {
+                    "id": "[128GB-256GB)",
+                    "name": "128 a 255 GB",
+                    "results": 1887
+                },
+                {
+                    "id": "[256GB-*)",
+                    "name": "256 GB o más",
+                    "results": 1437
+                }
+            ]
+        },
+        {
+            "id": "IS_DUAL_SIM",
+            "name": "Otras características",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "242085",
+                    "name": "Es Dual SIM",
+                    "results": 738
+                }
+            ]
+        },
+        {
+            "id": "ITEM_CONDITION",
+            "name": "Condición",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "2230581",
+                    "name": "Usado",
+                    "results": 8838
+                },
+                {
+                    "id": "2230284",
+                    "name": "Nuevo",
+                    "results": 2271
+                },
+                {
+                    "id": "2230582",
+                    "name": "Reacondicionado",
+                    "results": 246
+                }
+            ]
+        },
+        {
+            "id": "MODEL",
+            "name": "Modelo",
+            "type": "STRING",
+            "values": [
+                {
+                    "id": "312155",
+                    "name": "iPhone 7",
+                    "results": 1590
+                },
+                {
+                    "id": "312149",
+                    "name": "iPhone 6",
+                    "results": 1134
+                }
+            ]
+        },
+        {
+            "id": "WITH_FACIAL_RECOGNITION",
+            "name": "Otras características",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "242085",
+                    "name": "Con reconocimiento facial",
+                    "results": 1266
+                }
+            ]
+        },
+        {
+            "id": "WITH_FINGERPRINT_READER",
+            "name": "Otras características",
+            "type": "boolean",
+            "values": [
+                {
+                    "id": "242085",
+                    "name": "Con lector de huella digital",
+                    "results": 7884
+                }
+            ]
+        }
+    ]
+}
